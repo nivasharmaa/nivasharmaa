@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Niva Sharma
+# Niva Sharma
 
 🔭 Tech enthusiast passionate about working on AI and full-stack development to create impactful solutions.  
 🌱 I'm currently studying Computer Science at Rutgers University-New Brunswick.  
