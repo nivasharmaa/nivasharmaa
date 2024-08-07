@@ -26,6 +26,10 @@
 - Adobe
 - NumPy
 - Slack/Trello
+- Jest
+- React Testing Library
+- Progressive Web Apps (PWA)
+- Natural Language Processing (NLP)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
@@ -36,5 +40,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nivasharmaa&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
