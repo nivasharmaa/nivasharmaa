@@ -9,8 +9,8 @@
 **Languages:**  
 - Java
 - Python
+- C
 - JavaScript
-- TypeScript
 - SQL
 - HTML/CSS
 - MATLAB
@@ -28,7 +28,6 @@
 - Slack/Trello
 - Jest
 - React Testing Library
-- Progressive Web Apps (PWA)
 - Natural Language Processing (NLP)
 
 ### ✍️ Random Dev Quote
