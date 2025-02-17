@@ -1,8 +1,7 @@
 # Niva Sharma
 
-🔭 Tech enthusiast passionate about working on AI and full-stack development to create impactful solutions.  
+🚀 Passionate about designing efficient, scalable, and high-performance software solutions.
 🌱 I'm currently studying Computer Science at Rutgers University-New Brunswick.  
-⚡ Fun fact: I have been swimming since the age of 3 and have won 28 national medals.
 
 ## 🛠 Skills
 
@@ -13,22 +12,36 @@
 - JavaScript
 - SQL
 - HTML/CSS
-- MATLAB
 
-**Frameworks and Tools:**  
-- React.js
-- WordPress
-- PyTorch
-- REST APIs
-- JSON
-- Git/GitHub
-- Apache
-- Adobe
-- NumPy
-- Slack/Trello
-- Jest
+**Frontend Development**  
+- React
+- Next.js
+- Tailwind CSS
+
+**Backend Development**
+- FastAPI (REST)
+- Node
+
+**Database Systems**
+- PostgreSQL
+- MongoDB
+
+**Frameworks and Libraries**
 - React Testing Library
-- Natural Language Processing (NLP)
+- Pandas
+- OpenCV
+- NumPy
+- PyTorch
+
+**Developer Tools**
+- Git
+- Github
+- Docker
+- Netlify
+- Vercel
+- Visual Studio Code
+- Jupyter Notebook
+- Apache Maven
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
