@@ -1,7 +1,7 @@
 # Niva Sharma
 
-- 🚀 Passionate about designing efficient, scalable, and high-performance software solutions.
-- 🌱 I'm currently studying Computer Science at Rutgers University-New Brunswick.  
+- Passionate about designing efficient, scalable, and high-performance software solutions.
+- I'm currently studying Computer Science at Rutgers University-New Brunswick.  
 
 ## 🛠 Skills
 
