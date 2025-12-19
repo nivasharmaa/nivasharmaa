@@ -1,47 +1,12 @@
 # Niva Sharma
 
-- Passionate about designing efficient, scalable, and high-performance software solutions.
-- I'm currently studying Computer Science at Rutgers University-New Brunswick.  
+- CS @ Rutgers University–New Brunswick (May 2026)
+- I build reliable backend systems and AI-powered data tools.
 
-## 🛠 Skills
-
-**Languages:**  
-- Java
-- Python
-- C
-- JavaScript
-- SQL
-- HTML/CSS
-
-**Frontend Development**  
-- React
-- Next.js
-- Tailwind CSS
-
-**Backend Development**
-- FastAPI (REST)
-- Node
-
-**Database Systems**
-- PostgreSQL
-- MongoDB
-
-**Frameworks and Libraries**
-- React Testing Library
-- Pandas
-- OpenCV
-- NumPy
-- PyTorch
-
-**Developer Tools**
-- Git
-- Github
-- Docker
-- Netlify
-- Vercel
-- Visual Studio Code
-- Jupyter Notebook
-- Apache Maven
+### Tech
+Java • Python • TypeScript/JavaScript • SQL  
+NestJS/Node.js • FastAPI • PostgreSQL • Redis • DuckDB  
+AWS (RDS/CLI) • Docker • GitLab CI/CD • Git
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
