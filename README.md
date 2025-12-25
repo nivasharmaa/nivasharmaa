@@ -1,6 +1,6 @@
 # Niva Sharma
 
-- CS @ Rutgers University, New Brunswick (May 2026)
+- CS @ Rutgers University, New Brunswick
 - I build reliable backend systems and AI-powered data tools.
 
 ### Tech
