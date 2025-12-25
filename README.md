@@ -4,9 +4,10 @@
 - I build reliable backend systems and AI-powered data tools.
 
 ### Tech
-- Language: Java, Python, TypeScript/JavaScript, SQL  
-- Backend & Data: NestJS/Node.js, FastAPI, PostgreSQL, Redis, DuckDB  
-- Cloud & DevOps: AWS (RDS/CLI), Docker, GitLab CI/CD, Git
+- **Languages:** Python, TypeScript/JavaScript, Java, SQL
+- **Backend:** Node.js, NestJS, FastAPI
+- **Databases:** PostgreSQL, DuckDB, Redis
+- **Cloud & DevOps:** AWS (Lambda, S3, RDS, CLI), Docker, GitLab CI/CD
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
