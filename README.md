@@ -1,7 +1,7 @@
 # Niva Sharma
 
 - CS @ Rutgers University, New Brunswick
-- I build reliable backend systems and AI-powered data tools.
+- I build reliable backend and data systems that enable human-centered, consumer products.
 
 ### Tech
 - **Languages:** Python, TypeScript/JavaScript, Java, SQL
